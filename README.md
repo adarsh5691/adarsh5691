@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adarsh Tripathy
-- 👀 I’m interested in Python Coding
+- 👀 I’m interested in Web Development and Python Coding
 - 🌱 I’m currently Studying in GIET UNIVERSITY.
 - 📫 How to reach me ...
 
